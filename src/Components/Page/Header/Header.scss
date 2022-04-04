@@ -1,0 +1,40 @@
+.header__container{
+    max-width: 1665px;
+    width: 100%;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 15px;
+}
+
+.input{
+    width: 830px;
+    height: 44px;
+    padding-left: 23px;
+    background-color: #EBEBEB;
+    opacity: 0.3;
+    border: none;
+    border-radius: 22px;
+    background-image: url(../../../Assets/Image/Navbar/searchicon.svg);
+    background-repeat: no-repeat;
+    background-size: 19px 19px;
+    background-position: 790px center;
+}
+
+.img__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    margin-left: 400px;
+    padding: 0;
+}
+
+.img__item{
+    margin-right: 50px;
+    padding: 0;
+}

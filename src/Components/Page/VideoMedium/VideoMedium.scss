@@ -1,0 +1,266 @@
+.video__container{
+    display: flex;
+    max-width: 1665px;
+    width: 100%;
+    margin: 0;
+}
+
+.video__img{
+    width: 1200px;
+    height: 700px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.video__title{
+    width: 570px;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 14px;
+    margin-left: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    color: #192646;
+}
+
+.video__box{
+    display: flex;
+    align-items: center;
+}
+
+.video__text{
+    width: 105px;
+    align-items: center;
+    margin: 0;
+    margin-left: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #C2C2C2;
+}
+
+.video__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 620px;
+}
+
+.video__item{
+    margin-right: 10px;
+}
+
+.video__btn{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #192646;
+    padding: 14px 20px 10px 20px;
+    text-align: center;
+    background-color: #EBEBEB;
+    opacity: 0.3;
+    border-radius: 20px;
+    border: none;
+}
+
+.video__box--1{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 15px;
+    padding: 0;
+}
+
+.video__box--2{
+    display: flex;
+    align-items: center;
+}
+
+.next{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    color: #19202C;
+    background-color: #fff;
+}
+
+
+.video__box--title{
+    width: 161px;
+    margin-bottom: 4px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+    color: #19202C;
+}
+
+.video__box--text{
+    width: 154px;
+    margin-bottom: 14px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #C2C2C2;
+}
+
+.video__box--description{
+    width: 820px;
+    margin-bottom: 15px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    mix-blend-mode: normal;
+    opacity: 0.6;
+}
+
+.video__box--link{
+    display: block;
+    width: 106px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #C2C2C2;
+    text-decoration: none;
+}
+
+.video__box--btn{
+    margin-top: 25px;
+    margin-left: 150px;
+}
+
+.next__btn{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    color: #19202C;
+    background-color: #fff;
+}
+
+.video__autoplay{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.next__autoplay{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.autoplay{
+    width: 93px;
+    margin: 0;
+    margin-left: 45px;
+    margin-right: 11px;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #19202C;
+}
+
+.photo__list--5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    list-style: none;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 0;
+    width: 350px;
+    height: 1270px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.photo__link--5{
+    text-decoration: none;
+}
+
+.photo__item--5{
+    margin-right: 40px;
+}
+
+.photo__image--5{
+    width: 250px;
+    height: 150px;
+    margin-bottom: 10px;
+    border-radius: 14px;
+}
+
+
+
+.photo__title--5{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #19202C;
+}
+
+.photo__description--5{
+    display: flex;
+    align-items: center;
+}
+
+.photo__text1--5{
+    width: 95px;
+    margin-right: 70px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px; 
+    color: #C2C2C2;
+}
+
+.photo__text2--5{
+    width: 90px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #C2C2C2;
+}

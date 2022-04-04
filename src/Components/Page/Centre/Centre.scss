@@ -1,0 +1,275 @@
+.centre__container{
+    max-width: 1665px;
+    width: 100%;
+    margin: 0;
+}
+
+.title__box--1, .title__box--2{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+}
+
+.dollie__blair{
+    width: 135px;
+    margin-left: 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+    color: #19202C;
+}
+
+.left{
+    margin-left: 1150px;
+    margin-right: 10px;
+}
+
+.photos__list--1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+    width: 1500px;
+    height: 350px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.photos__item{
+    margin-right: 40px;
+}
+
+.photo__image{
+    width: 250px;
+    height: 150px;
+    margin-bottom: 10px;
+    border-radius: 14px;
+}
+
+
+
+.photo__title{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #19202C;
+}
+
+.photo__description{
+    display: flex;
+    align-items: center;
+}
+
+.photo__text1{
+    width: 144px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #C2C2C2;
+}
+
+.photo__text2{
+    width: 65px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: right;
+    color: #C2C2C2;
+}
+
+.rec__title{
+    width: 185px;
+    margin: 0;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 10px;  
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+    color: #19202C;
+}
+
+.photos__list--2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+    width: 1500px;
+    height: 450px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.photomoto__image{
+    width: 540px;
+    height: 250px;
+    border-radius: 14px;
+}
+
+.photomoto__title{
+    width: 253px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #19202C;
+}
+
+.photomoto__text{
+    width: 150px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #C2C2C2;
+}
+
+.title__box--3{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 15px;
+    padding: 0;
+}
+
+.food__orange{
+    margin: 0;
+    margin-right: 20px;
+}
+
+.food__title{
+    white-space: nowrap;
+    margin: 0;
+    margin-right: 19px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+    color: #19202C;
+}
+
+.food__div{
+    display: flex;
+    align-items: center;
+}
+
+.food__text{
+    margin: 0;
+    margin-right: 770px;
+    text-align: center;
+    white-space: nowrap;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #C2C2C2;
+}
+
+.food__btn{
+    margin-left: 725px;
+    margin-right: 40px;
+    padding: 10px 20px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #FF0000;
+    border-radius: 20px;
+    border: none;
+}
+
+.left1{
+    margin-right: 10px;
+}
+
+.photos__list--3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    margin-top: 30px;
+    margin-bottom: 65px;
+    margin-left: 20px;
+    padding: 0;
+    width: 1500px;
+    height: 350px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.photo3__image{
+    width: 250px;
+    height: 150px;
+    border-radius: 14px;
+}
+
+.photo3__title{
+    width: 185px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #19202C;
+}
+
+.photo3__text{
+    width: 168px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #C2C2C2;
+}
+
+.photo3__text1{
+    width: 78px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: right;
+    color: #C2C2C2;
+}

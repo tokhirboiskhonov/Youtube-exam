@@ -1,0 +1,163 @@
+.nav{
+    max-width: 250px;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+}
+
+.ham__youtube{
+    display: flex;
+    align-items: center;
+}
+
+.hamburger__img{
+    width: 20px;
+    height: 17px;
+    margin-top: 0;
+}
+
+.onHamburger__img{
+    display: none;
+}
+
+.nav__centre{
+    transition: 0.5s;
+}
+
+.youtube__logo{
+    width: 116px;
+    height: 25px;
+    margin: 0;
+    margin-left: 30px;
+}
+
+.select__languages{
+    width: 55px;
+    margin-top: 20px;
+    margin-left: 15px;
+    background-color: #1D9BF0;
+    color: #FFFFFF;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+.nav__list{
+    margin-top: 65px;
+    margin-bottom: 60px;
+    padding: 0;
+    list-style: none;
+}
+
+.nav__item{
+    margin-bottom: 23px;
+    padding: 0;
+    
+    &--mr{
+        margin-bottom: 60px;
+    }
+}
+
+.nav__img{
+    margin-right: 13px;
+}
+
+.nav__link{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #898989;
+    
+    &.active{
+        color: red;
+        text-decoration: underline;
+    }
+}
+
+.nav__links{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #898989;
+    
+    &.active{
+        color: red;
+        text-decoration: underline;
+    }
+}
+
+.channel__show{
+    display: none;
+}
+
+.channel__title{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.channel__list{
+    margin: 0;
+    margin-bottom: 104px;
+    padding: 0;
+}
+
+.channel__item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 23px;
+}
+
+.channel__img{
+    width: 26px;
+    height: 26px;
+    margin: 0;
+    margin-right: 10px;
+    padding: 0;
+}
+
+.channel__link{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #898989;
+    text-decoration: none;
+}
+
+.setting__box{
+    display: flex;
+    align-items: center;
+}
+
+.setting{
+    width: 53px;
+    margin: 0;
+    margin-left: 15px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #C2C2C2;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+    height: 6px;
+    border-radius: 5px ;
+}
+::-webkit-scrollbar-thumb{
+    background-color: gray;
+}
